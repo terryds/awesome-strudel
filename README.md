@@ -2,7 +2,7 @@
 
 > A curated collection of awesome Strudel resources including tracks, tutorials, and repositories
 
-This repository keeps track of standout songs and covers from Strudel artists, helpful tutorials, and useful repositories—all related to the live coding music platform Strudel.cc.
+This repository keeps track of standout songs and covers from Strudel artists, helpful tutorials, and useful repositories, all related to the live coding music platform Strudel.cc.
 
 ## 🎵 Featured Tracks
 
