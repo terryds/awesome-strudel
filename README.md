@@ -1,4 +1,4 @@
-# Awesome Strudel Songs
+# Awesome Strudel
 
 > A curated collection of awesome Strudel resources including tracks, tutorials, and repositories
 
