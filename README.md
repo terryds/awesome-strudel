@@ -4,8 +4,6 @@
 
 This repository keeps track of standout songs and covers from Strudel artists, helpful tutorials, and useful repositories—all related to the live coding music platform Strudel.cc.
 
-You'll find everything from faithful covers to creative remixes and original compositions—all coded in real time.
-
 ## 🎵 Featured Tracks
 
 | Song                                        | Artist   | Strudel Link                                           | Source                                                                                   |
