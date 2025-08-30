@@ -38,7 +38,7 @@ Essential learning resources for getting started with Strudel:
 - **[Official Strudel Guide](https://strudel.cc/workshop/getting-started/)** – The official getting started workshop and documentation
 - **[Creative Code Art - WORKSHOP // Coding Music With Strudel // Dan Gorelick and Viola He](https://www.youtube.com/watch?v=oqyAJ4WeKoU&ab_channel=CreativeCodeArt)** – Comprehensive video workshop on coding music with Strudel
 - **[Intro To Algorave (Strudel Workshop)](https://glfmn.io/presentations/algorave/)** – Introduction to algorave and live coding with Strudel
-- **[Learn how to make music through live coding // Lucy Cheesman](https://www.youtube.com/watch?v=QRJ0xrjLj6A) - Learn live coding techniques to make your own music on Strudel.
+- **[Learn how to make music through live coding // Lucy Cheesman](https://www.youtube.com/watch?v=QRJ0xrjLj6A)** - Learn live coding techniques to make your own music on Strudel.
 
 ## 🚀 How to Contribute
 
