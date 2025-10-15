@@ -41,27 +41,7 @@ Essential learning resources for getting started with Strudel:
 - **[Intro To Algorave (Strudel Workshop)](https://glfmn.io/presentations/algorave/)** – Introduction to algorave and live coding with Strudel
 - **[Learn how to make music through live coding // Lucy Cheesman](https://www.youtube.com/watch?v=QRJ0xrjLj6A)** - Learn live coding techniques to make your own music on Strudel.
 
-## 🚀 How to Contribute
-
-We welcome contributions to make this resource even better! You can contribute in several ways:
-
-### 🎵 Adding Featured Tracks
-
-Found an awesome Strudel track that's not on this list? Add a new row to the Featured Tracks table with:
-
-1. **Song** – Title of the track
-2. **Artist** – The creator's name or handle  
-3. **Strudel Link** – URL to the live Strudel project  
-4. **Source** – Link to a social post or other source showcasing the track  
-
-Example table row:
-```markdown
-| Song Title (notes) | ArtistName | [View on Strudel](https://strudel.cc/?yourLinkHere) | [Source](https://link.to/your/source) |
-```
-
-### 📚 Adding Repositories
-
-Know of a great GitHub repository related to Strudel? Add it to the Awesome Repositories section with a brief description.
+### Samples and Sound Banks
 
 | Sound bank | GitHub Shortcut | GitHub Source   |
 |------------|-----------------|------|
@@ -95,6 +75,28 @@ Know of a great GitHub repository related to Strudel? Add it to the Awesome Repo
 | Veikkosuhonen/graffathon25-demo | github:Veikkosuhonen/graffathon25-demo | https://github.com/Veikkosuhonen/graffathon25-demo |
 | wyan/livecoding-samples | github:wyan/livecoding-samples | https://github.com/wyan/livecoding-samples |
 | yaxu/clean-breaks | github:yaxu/clean-breaks | https://github.com/yaxu/clean-breaks |
+
+## 🚀 How to Contribute
+
+We welcome contributions to make this resource even better! You can contribute in several ways:
+
+### 🎵 Adding Featured Tracks
+
+Found an awesome Strudel track that's not on this list? Add a new row to the Featured Tracks table with:
+
+1. **Song** – Title of the track
+2. **Artist** – The creator's name or handle  
+3. **Strudel Link** – URL to the live Strudel project  
+4. **Source** – Link to a social post or other source showcasing the track  
+
+Example table row:
+```markdown
+| Song Title (notes) | ArtistName | [View on Strudel](https://strudel.cc/?yourLinkHere) | [Source](https://link.to/your/source) |
+```
+
+### 📚 Adding Repositories
+
+Know of a great GitHub repository related to Strudel? Add it to the Awesome Repositories section with a brief description.
 
 ### 📖 Adding Tutorials
 
