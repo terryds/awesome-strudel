@@ -63,6 +63,39 @@ Example table row:
 
 Know of a great GitHub repository related to Strudel? Add it to the Awesome Repositories section with a brief description.
 
+| Sound bank | GitHub Shortcut | GitHub Source   |
+|------------|-----------------|------|
+| algorave-dave/samples | github:algorave-dave/samples | https://github.com/algorave-dave/samples |
+| AuditeMarlow/samples | github:AuditeMarlow/samples | https://github.com/AuditeMarlow/samples |
+| AustinOliverHaskell/ms-teams-sounds-strudel | github:AustinOliverHaskell/ms-teams-sounds-strudel | https://github.com/AustinOliverHaskell/ms-teams-sounds-strudel |
+| bruveping/RepositorioDesonidosParaExperimentar02 | github:bruveping/RepositorioDesonidosParaExperimentar02 | https://github.com/bruveping/RepositorioDesonidosParaExperimentar02 |
+| Bubobubobubobubo/Dough-Amen | github:Bubobubobubobubo/Dough-Amen | https://github.com/Bubobubobubobubo/Dough-Amen |
+| Bubobubobubobubo/Dough-Juj | github:Bubobubobubobubo/Dough-Juj | https://github.com/Bubobubobubobubo/Dough-Juj |
+| eddyflux/crate | github:eddyflux/crate | https://github.com/eddyflux/crate |
+| EloMorelo/samples | github:EloMorelo/samples | https://github.com/EloMorelo/samples |
+| emrexdeger/strudelSamples | github:emrexdeger/strudelSamples | https://github.com/emrexdeger/strudelSamples |
+| fjpolo/fjpolo-Strudel | github:fjpolo/fjpolo-Strudel | https://github.com/fjpolo/fjpolo-Strudel |
+| fstiffo/polifonia-samples | github:fstiffo/polifonia-samples | https://github.com/fstiffo/polifonia-samples |
+| hvillase/cavlp-25p | github:hvillase/cavlp-25p | https://github.com/hvillase/cavlp-25p |
+| k09/samples | github:k09/samples | https://github.com/k09/samples |
+| kaiye10/strudelSamples | github:kaiye10/strudelSamples | https://github.com/kaiye10/strudelSamples |
+| mot4i/garden | github:mot4i/garden | https://github.com/mot4i/garden |
+| mysinglelise/msl-strudel-samples | github:mysinglelise/msl-strudel-samples | https://github.com/mysinglelise/msl-strudel-samples |
+| Nikeryms/Samples | github:Nikeryms/Samples | https://github.com/Nikeryms/Samples |
+| prismograph/departure | github:prismograph/departure | https://github.com/prismograph/departure |
+| QuantumVillage/quantum-music | github:QuantumVillage/quantum-music | https://github.com/QuantumVillage/quantum-music |
+| RikyBac15/samples | github:RikyBac15/samples | https://github.com/RikyBac15/samples |
+| salsicha/capoeira_strudel | github:salsicha/capoeira_strudel | https://github.com/salsicha/capoeira_strudel |
+| sonidosingapura/rochormatic | github:sonidosingapura/rochormatic | https://github.com/sonidosingapura/rochormatic |
+| terrorhank/samples | github:terrorhank/samples | https://github.com/terrorhank/samples |
+| tesspilot/samples | github:tesspilot/samples | https://github.com/tesspilot/samples |
+| tidalcycles/Dirt-Samples | github:tidalcycles/Dirt-Samples | https://github.com/tidalcycles/Dirt-Samples |
+| TodePond/samples | github:TodePond/samples | https://github.com/TodePond/samples |
+| TristanCacqueray/mirus | github:TristanCacqueray/mirus | https://github.com/TristanCacqueray/mirus |
+| Veikkosuhonen/graffathon25-demo | github:Veikkosuhonen/graffathon25-demo | https://github.com/Veikkosuhonen/graffathon25-demo |
+| wyan/livecoding-samples | github:wyan/livecoding-samples | https://github.com/wyan/livecoding-samples |
+| yaxu/clean-breaks | github:yaxu/clean-breaks | https://github.com/yaxu/clean-breaks |
+
 ### 📖 Adding Tutorials
 
 Found a helpful Strudel tutorial, workshop, or learning resource? Add it to the Awesome Tutorials section.
