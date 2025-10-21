@@ -31,6 +31,7 @@ This repository keeps track of standout songs and covers from Strudel artists, h
 A collection of GitHub repositories that Strudel enthusiasts should check out:
 
 - **[Strudel Songs Collection](https://github.com/eefano/strudel-songs-collection)** by eefano – A comprehensive collection of Strudel songs and covers
+- **[Strudel Neovim Controller](https://github.com/gruvw/strudel.nvim)** by gruvw – A Neovim based strudel.cc controller, live coding using Strudel from Neovim
 
 ## 📖 Awesome Tutorials
 
