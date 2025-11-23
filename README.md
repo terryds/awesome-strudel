@@ -50,6 +50,8 @@ Essential learning resources for getting started with Strudel:
 
 ### Samples and Sound Banks
 
+- **[strudel samples](https://strudel-samples.alternet.site)** - find and preview samples from known sample packs (and add your own!)
+
 | Sound bank | GitHub Shortcut | GitHub Source   |
 |------------|-----------------|------|
 | algorave-dave/samples | github:algorave-dave/samples | https://github.com/algorave-dave/samples |
