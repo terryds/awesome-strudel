@@ -36,6 +36,7 @@ A collection of GitHub repositories that Strudel enthusiasts should check out:
 - **[Strudel Songs Collection](https://github.com/eefano/strudel-songs-collection)** by eefano – A comprehensive collection of Strudel songs and covers
 - **[Strudel Neovim Controller](https://github.com/gruvw/strudel.nvim)** by gruvw – A Neovim based strudel.cc controller, live coding using Strudel from Neovim
 - **[MIDI to Strudel](https://github.com/Emanuel-de-Jong/MIDI-To-Strudel)** by Emanuel-de-Jong – Convert MIDI files to Strudel note notations with Python or HTML
+- **[midi-strudel](https://github.com/beejsbj/midi-strudel)** by beejsbj – Browser-based MIDI-to-Strudel converter with readable Strudel-style output, track splitting, key detection, quantization, and embedded playback
 
 ## 📖 Awesome Tutorials
 
