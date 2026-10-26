@@ -55,6 +55,7 @@ A collection of GitHub repositories that Strudel enthusiasts should check out:
 - **[Melograph](https://github.com/beejsbj/melograph)** by beejsbj – Record or upload a hummed melody, inspect its pitch contour and note events, then edit, audition, and open the generated Strudel code. [Demo](https://melograph-swart.vercel.app/)
 - **[PLAYER](https://github.com/abrambailey/player)** - A local-first Strudel song builder with a live code editor, step sequencer, piano roll, sound browser, timeline/arrangement view, effect knobs, `.strudel` import/export, and shareable song links. [Demo](https://player-eight-teal.vercel.app/)
 - **[maria-live-codes](https://github.com/Mariaareadne1/maria-live-codes)** by MariaAreadne – A collection of live-coded cover songs for Strudel (Megalovania, Feel Good Inc, Vardis Quo, and more)
+- **[Toaster](https://github.com/StopBanning/toaster)** by StopBanning – Play a song and it writes it out as Strudel code while it listens: the kick, the hats, the bass line, the chords. One key opens the code in strudel.cc so you can pick it up from there. Runs in the browser, or as a Windows/Mac app. [Demo](https://toaster.locust.lol)
 
 ## 📖 Awesome Tutorials
 
