@@ -69,6 +69,7 @@ Essential learning resources for getting started with Strudel:
 - **[Learn how to make music through live coding // Lucy Cheesman](https://www.youtube.com/watch?v=QRJ0xrjLj6A)** - Learn live coding techniques to make your own music on Strudel.
 - **[Beats, Bytes, and Basslines: An Introduction to Live Coding Music with Strudel CC](https://mirakl.tech/beats-bytes-and-basslines-an-introduction-to-live-coding-with-strudel-cc-4d378e86d5b7)**
 - **[MariaAreadne – Strudel Covers & Tutorials](https://www.youtube.com/@MariaAreadne1)** – Live-coded song covers and walkthroughs on YouTube
+- **[You can just make music](https://good.vibes.diy/blog/you-can-just-make-music)** – Step-by-step Strudel tutorial where every example is a live drum machine you can play, save and remix on [Vibes DIY](https://vibes.diy)
 
 ### Samples and Sound Banks
 
